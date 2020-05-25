@@ -8,7 +8,7 @@ My first attempt is uploaded as [this gif](https://github.com/thecraigd/Bar_Char
 
 The day I posted mine on [twitter](https://twitter.com/craigdoesdata/status/1255228501248151556) I saw that [Ted Petrou](https://twitter.com/TedPetrou) had released a new package, bar-chart-race, to make it easy to do the same thing. So I gave it a try using that. 
 
-This resulted in [this video](https://github.com/thecraigd/Bar_Chart_Race/blob/master/income.mp4), based on the code in the notebook [income-bar-chart-race-package.ipynb](https://github.com/thecraigd/Bar_Chart_Race/blob/master/income-bar-chart-race-package.ipynb) This creates a nice animation with smooth transitions when countries change places, with signinficantly less effort on the part of the user.
+This resulted in [this video](https://github.com/thecraigd/Bar_Chart_Race/blob/master/income.mp4), based on the code in the notebook [income-bar-chart-race-package.ipynb](https://github.com/thecraigd/Bar_Chart_Race/blob/master/income-bar-chart-race-package.ipynb) This creates a nice animation with smooth transitions when countries change places, with significantly less effort on the part of the user.
 
 This is undoubtedly a more polished end product, but I found the process of creating my own bar chart race (of sorts, there is some argument about the criteria that must be met to merit the title) extremely useful in giving practice creating a function which produces a chart based on data, then looping over it to create each frame of the animation. 
 
