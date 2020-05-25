@@ -6,7 +6,7 @@ After seeing lots of this type of visualisation going around on Twitter, I wante
 
 My first attempt is uploaded as [this gif](https://github.com/thecraigd/Bar_Chart_Race/blob/master/race%20top%2010%20100ms%20ggplot-style.gif), based on the code in the workbook [income_self.ipynb](https://github.com/thecraigd/Bar_Chart_Race/blob/master/Income_self.ipynb). This version is rudimentary but effective. It shows clearly the trend over time and communicates clearly enough the main points, but it is jerky and lacks the smooth animations when one country overtakes another.
 
-The day I posted mine on [twitter](https://twitter.com/craigdoesdata/status/1255228501248151556) I saw that [Ted Petrou](https://twitter.com/TedPetrou) had released a nice little package, bar-chart-race, to make it easy to do the same thing. So I gave it a try using that. 
+The day I posted mine on [twitter](https://twitter.com/craigdoesdata/status/1255228501248151556) I saw that [Ted Petrou](https://twitter.com/TedPetrou) had released a new package, bar-chart-race, to make it easy to do the same thing. So I gave it a try using that. 
 
 This resulted in [this video](https://github.com/thecraigd/Bar_Chart_Race/blob/master/income.mp4), based on the code in the notebook [income-bar-chart-race-package.ipynb](https://github.com/thecraigd/Bar_Chart_Race/blob/master/income-bar-chart-race-package.ipynb) This creates a nice animation with smooth transitions when countries change places.
 
