@@ -1,10 +1,49 @@
-# Bar_Chart_Race
-Making Bar Chart Races in Matplotlib using 'gif' and 'bar-chart-race' packages
+# Making Bar Chart Races in Matplotlib using 'gif' and 'bar-chart-race' packages
+Data visualisation project aiming to create an animated Bar Chart Race.
 
-After seeing this kind of visualisation doing the rounds I wanted to try my hand at making my own.
+## Introduction
+After seeing lots of this type of visualisation going around on Twitter. I decided to use data fromthe [Gapminder Foundation](https://www.gapminder.org/) because their data is usually clean and easy to access and start playing around with. I used GDP per capita data for countries from 1800-2020.
 
-Income_self.ipynb is the code I put together to make a (fairly rudimentary, but still effective) version. 
+My first attempt is uploaded as [income_self.ipynb](https://github.com/thecraigd/Bar_Chart_Race/blob/master/Income_self.ipynb). This version is rudimentary but effective. It shows clearly the trend over time and communicates clearly enough the main points, but it is jerky and lacks the smooth animations when one country overtakes another.
 
-The day I posted mine on twitter (@craigdoesdata) I saw that Ted Petrou (@TedPetrou) had released a nice little package, bar-chart-race, to make it easy to do the same thing. So today I gave it a try using that. income-bar-chart-race-package.ipynb is the result of that, which creates a nice animation with smooth transitions when countries change places.
+The day I posted mine on [twitter](https://twitter.com/craigdoesdata/status/1255228501248151556) I saw that [Ted Petrou](https://twitter.com/TedPetrou) had released a nice little package, bar-chart-race, to make it easy to do the same thing. So I gave it a try using that. [income-bar-chart-race-package.ipynb](https://github.com/thecraigd/Bar_Chart_Race/blob/master/income-bar-chart-race-package.ipynb) is the result of that, which creates a nice animation with smooth transitions when countries change places.
 
-I used GDP per capita data from www.gapfinder.org, which was very nice.
+#### Project status - Complete
+
+
+### Methods used
+* Data visualisation
+
+### Technologies used
+* Jupyter Notebook
+* [bar-chart-race](https://pypi.org/project/bar-chart-race/)
+* pandas
+* [gif](https://pypi.org/project/gif/) (python package)
+
+
+### Data Sources
+
+Avocado price data sourced from [Kaggle](https://www.kaggle.com/neuromusic/avocado-prices) - stored [in this repository](https://github.com/thecraigd/Avocado-Prices/blob/master/avocado.csv) as avocado.csv
+
+
+### Getting started
+
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Raw Data is kept in the CSV file in the root folder of this repo.
+3. All code is contained within the [Jupyter Notebook](https://github.com/thecraigd/BokehAvocado/blob/master/Map.ipynb) for this project, stored in the root folder as Map.ipynb
+
+
+## Featured Notebooks
+* [income_self](https://github.com/thecraigd/Bar_Chart_Race/blob/master/Income_self.ipynb)
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thecraigd/Bar_Chart_Race/master?filepath=https%3A%2F%2Fgithub.com%2Fthecraigd%2FBar_Chart_Race%2Fblob%2Fmaster%2FIncome_self.ipynb)
+
+
+* [income-bar-chart-race-package](https://github.com/thecraigd/Bar_Chart_Race/blob/master/income-bar-chart-race-package.ipynb)
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thecraigd/Bar_Chart_Race/master?filepath=https%3A%2F%2Fgithub.com%2Fthecraigd%2FBar_Chart_Race%2Fblob%2Fmaster%2Fincome-bar-chart-race-package.ipynb)
+
+
+
+## Contact
+All feedback is warmly received. Craig Dickson can be contacted via [Twitter](https://twitter.com/craigdoesdata) as @craigdoesdata.
+Visit www.craigdoesdata.de or follow me here on GitHub to see my other projects.
+
