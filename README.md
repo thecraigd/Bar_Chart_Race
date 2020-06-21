@@ -36,7 +36,7 @@ Inflation-adjusted GDP per capita data sourced from [Gapminder](www.gapminder.or
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is kept in the CSV file in the root folder of this repo.
-3. All code is contained within the [Jupyter Notebook](https://github.com/thecraigd/BokehAvocado/blob/master/Map.ipynb) for this project, stored in the root folder as Map.ipynb
+3. All code is contained within the 'Featured Notebooks' listed below.
 
 
 ## Featured Notebooks
