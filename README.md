@@ -1,3 +1,9 @@
+[![CraigDoesData][logo]][link]
+
+[logo]: https://www.craigdoesdata.de/img/logo/logo.png
+[link]: https://www.craigdoesdata.de/
+
+
 # Making Bar Chart Races in Matplotlib using 'gif' and 'bar-chart-race' packages
 Data visualisation project aiming to create an animated Bar Chart Race.
 
